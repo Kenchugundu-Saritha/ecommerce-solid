@@ -9,5 +9,5 @@ public class EcommerceSolidApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceSolidApplication.class, args);
 	}
-
+   // E-commerce application
 }
