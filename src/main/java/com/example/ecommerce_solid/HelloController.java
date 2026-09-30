@@ -8,6 +8,6 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "E-commerce application is running";	
+		return "E-commerce application is running successfully";	
 	}
 }
